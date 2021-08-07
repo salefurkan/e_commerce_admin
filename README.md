@@ -36,6 +36,6 @@
 </details>
 
 
-### Thank You
+### Thank You Very Much
 
   > _The application is designed in Turkish but can be easily modified._
