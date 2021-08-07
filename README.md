@@ -1,16 +1,41 @@
-# e_shop_tez
+# E-Shopping 
 
-A new Flutter project.
+- Developed with Flutter & Dart
+- Back-end as Firebase
 
-## Getting Started
+## Features
+- Adding Products
+- Order Tracking
 
-This project is a starting point for a Flutter application.
+[Flutter](https://flutter.dev/docs/cookbook)
+[Firebase](https://firebase.google.com)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Preview
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## App Screens
+  - Login
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src="https://github.com/salefurkan/e_commerce_admin/blob/main/admin_ui/Screenshot_1621320087.png?raw=true" alt="drawing" width="400"/>
+
+- Main Screen
+
+<img src="https://github.com/salefurkan/e_commerce_admin/blob/main/admin_ui/Screenshot_1621320175.png?raw=true" alt="drawing" width="400"/> 
+
+- Adding Product
+
+<img src="https://github.com/salefurkan/e_commerce_admin/blob/main/admin_ui/Screenshot_1621320182.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce_admin/blob/main/admin_ui/Screenshot_1621320295.png" alt="drawing" width="200"/><img src="  https://github.com/salefurkan/e_commerce_admin/blob/main/admin_ui/Screenshot_1621320357.png" alt="drawing" width="200"/>
+
+- Order Tracking
+
+<img src="https://github.com/salefurkan/e_commerce_admin/blob/main/admin_ui/Screenshot_1621321579.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce_admin/blob/main/admin_ui/Screenshot_1621321582.png?raw=true" alt="drawing" width="200"/> 
+  
+
+</details>
+
+
+### Thank You
+
+  > _The application is designed in Turkish but can be easily modified._
