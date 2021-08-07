@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398255746961",
+    "project_id": "e-magaza-tez",
+    "storage_bucket": "e-magaza-tez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398255746961:android:eefed05fe66e02df1eb430",
+        "android_client_info": {
+          "package_name": "com.example.e_shop_tez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398255746961-0uukoi9vmegnpbj23ons1h1v97jitb18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADX02GGSCcSgEpRN8ABUjIkD5r77mIq0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398255746961-0uukoi9vmegnpbj23ons1h1v97jitb18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
